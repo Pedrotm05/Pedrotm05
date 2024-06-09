@@ -1,8 +1,6 @@
 <h1>Olá! Eu sou o Pedro. :wave:</h1>
 <br>
-<p>Sou estrangeiro da Venezuela, Atualmente trabalho como motorista de app.
-<br>
-Estou em fase de estudos na Programação, aprendendo a desenvolver projetos,
+<p>Estou em fase de estudos na Programação, aprendendo a desenvolver projetos,
 <br>
 e ampliando cada vez mais os conhecimentos em:</p> 
 <ul> 
